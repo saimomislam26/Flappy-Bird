@@ -1,0 +1,17 @@
+﻿Build started 8/5/2017 02:54:23 PM.
+     1>Project "F:\Flappy-Bird\Flappy Bird\Flappy Bird\Flappy Bird.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Flappy Bird.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Flappy Bird.vcxproj -> F:\Flappy-Bird\Flappy Bird\Debug\Flappy Bird.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Flappy Bird.unsuccessfulbuild".
+         Touching "Debug\Flappy Bird.lastbuildstate".
+     1>Done Building Project "F:\Flappy-Bird\Flappy Bird\Flappy Bird\Flappy Bird.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
